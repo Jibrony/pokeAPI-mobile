@@ -1,0 +1,4 @@
+
+Integrar/Programar los componentes de encabezado/logo y buscador
+
+La carga de la pokeAPI opcional (necesario xd)
